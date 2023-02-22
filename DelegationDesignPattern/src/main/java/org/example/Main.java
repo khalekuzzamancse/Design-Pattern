@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.example01v1.java.Room;
+import org.example.java.Room;
 
 public class Main {
     public static void main(String[] args) {

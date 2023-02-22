@@ -1,6 +1,6 @@
-package org.example.example01v1.kotlin
+package org.example.kotlin
 
-open class Window:WindowListener {
+open class Window: WindowListener {
     override fun closeWindow() {
         println("Closing Window")
     }

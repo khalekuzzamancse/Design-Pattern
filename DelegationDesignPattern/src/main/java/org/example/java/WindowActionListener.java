@@ -1,4 +1,4 @@
-package org.example.example01v1.java;
+package org.example.java;
 
 public interface WindowActionListener {
     void openWindow();

@@ -1,6 +1,6 @@
-package org.example.example01v1.java;
+package org.example.java;
 
-public class Room {
+public class Room implements WindowActionListener,DoorActionListener{
     private final WindowActionListener window=new Window();
     private final DoorActionListener door=new Door();
     public void closeDoor(){

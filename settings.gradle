@@ -1,3 +1,6 @@
 rootProject.name = 'DesignPattern'
 include 'DelegationDesignPattern'
+include 'StateDesignPattern'
+include 'StrategyDesignPattern'
+include 'UnidirectionalDataFlowDesignPattern'
 

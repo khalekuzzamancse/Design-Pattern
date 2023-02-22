@@ -1,4 +1,4 @@
-package org.example.example01v1.kotlin
+package org.example.kotlin
 
 interface DoorActionListener {
     fun openDoor()
