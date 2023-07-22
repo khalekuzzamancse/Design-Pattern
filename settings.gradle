@@ -3,4 +3,6 @@ include 'DelegationDesignPattern'
 include 'StateDesignPattern'
 include 'StrategyDesignPattern'
 include 'UnidirectionalDataFlowDesignPattern'
+include 'CommandPattern'
+include 'Decorator_Pattern'
 
